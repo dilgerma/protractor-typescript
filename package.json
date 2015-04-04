@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/dilgerma/protractor-typescript/issues"
   },
-  "homepage": "https://github.com/dilgerma/protractor-typescript"
+  "homepage": "https://github.com/dilgerma/protractor-typescript",
+  "dependencies": {
+    "grunt-cli": "~0.1.13",
+    "grunt": "~0.4.5",
+    "grunt-ts": "~4.0.1"
+  }
 }
