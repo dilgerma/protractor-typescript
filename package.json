@@ -1,0 +1,19 @@
+{
+  "name": "protractor-typescript",
+  "version": "0.0.0",
+  "description": "A simple sample-application to show protractor / typescript integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dilgerma/protractor-typescript.git"
+  },
+  "author": "Martin Dilger <martin@effectivetrainings.de>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/dilgerma/protractor-typescript/issues"
+  },
+  "homepage": "https://github.com/dilgerma/protractor-typescript"
+}
