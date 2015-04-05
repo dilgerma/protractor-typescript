@@ -2,11 +2,12 @@ module.exports = function (grunt) {
     grunt.initConfig({
         ts: {
             default: {
-                src: ["src/script/**/*.ts"]
+                src: ["src/reference.ts","src/script/**/*.ts","typings/**/*.ts"],
+                reference : "src/reference.ts"
             }
         }
     });
 
     grunt.loadNpmTasks('grunt-ts');
-    grunt.registerTask('default', []);
+    grunt.registerTask('default', ['ts']);
 }
