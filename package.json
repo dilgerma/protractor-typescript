@@ -21,5 +21,8 @@
     "grunt": "~0.4.5",
     "grunt-ts": "~4.0.1",
     "protractor": "~2.0.0"
+  },
+  "devDependencies": {
+    "tsd": "~0.5.7"
   }
 }

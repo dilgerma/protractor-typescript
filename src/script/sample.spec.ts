@@ -9,7 +9,8 @@ module protractor.testing {
         public Test() {}
 
         protractorExample() {
-            browser.get("http://www.google.de")
+            browser.get("http://juliemr.github.io/protractor-demo/")
+            var firstInput = element(by.model("first")).sendKeys("1");
         }
     }
 
