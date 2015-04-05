@@ -1,5 +1,5 @@
 ///ts:ref=reference.ts
-/// <reference path="../reference.ts"/> ///ts:ref:generated
+/// <reference path="../../reference.ts"/> ///ts:ref:generated
 module protractor.testing {
 
     export class Test {
