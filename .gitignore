@@ -1,3 +1,4 @@
 node_modules
 src/script/**/*.js
 src/script/**/*.map
+.tscache
