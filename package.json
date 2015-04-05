@@ -23,6 +23,7 @@
     "protractor": "~2.0.0"
   },
   "devDependencies": {
-    "tsd": "~0.5.7"
+    "tsd": "~0.5.7",
+    "grunt-tsd": "~0.2.0-beta.1"
   }
 }
